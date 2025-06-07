@@ -12,14 +12,20 @@ migrei para o universo da TI.
 Desde 2011 atuando profissionalmente na área de TI, hoje estou como Arquiteto de Software e Desenvolvedor FullStack,
 com experiência sólida em aplicações web, mobile e back-end.
 
-Trabalho com foco em performance, segurança (seguindo padrões OWASP), arquitetura escalável e integração com serviços externos.
-Tenho interesse especial em tecnologias modernas e estou me especializando atualmente em inteligência artificial.
+Trabalho com foco em performance, segurança (seguindo padrões OWASP), arquitetura escalável e
+integração com serviços externos.
+Tenho interesse especial em tecnologias modernas e estou me especializando atualmente em
+inteligência artificial.
 
-Atualmente, atuo como Programador de Sistemas na Digidata e Engenheiro de Software na DevApps e contribuo ativamente em projetos que envolvem Laravel, Flutter, WordPress,
+Atualmente, atuo como Programador de Sistemas na Digidata e Engenheiro de Software na DevApps e
+contribuo ativamente em projetos que envolvem Laravel, Flutter, WordPress,
 API REST, HCE/NFC e integrações complexas com gateways logísticos e de pagamento.
 
-Também ajudo a manter o projeto GamersClub Booster (https://gamersclub-booster.github.io/), uma ferramenta desenvolvida pela comunidade na qual tive o prazer de conhecer dentro dos games espeficiamente o CS (Counter-Strike) voltada para otimização de desempenho em jogos,
-como parte do meu envolvimento em projetos open-source e performance digital. Sempre estou envolvido com algum projeto e/ou estudo.
+Também ajudo a manter o projeto GamersClub Booster (https://gamersclub-booster.github.io/),
+uma ferramenta desenvolvida pela comunidade na qual tive o prazer de conhecer dentro dos games
+espeficiamente o CS (Counter-Strike) voltada para otimização de desempenho em jogos,
+como parte do meu envolvimento em projetos open-source e performance digital.
+Sempre estou envolvido com algum projeto e/ou estudo.
 ```
 
 ---
